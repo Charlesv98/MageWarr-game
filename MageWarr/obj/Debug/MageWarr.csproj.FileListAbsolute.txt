@@ -1,0 +1,8 @@
+C:\Programování\C#\MageWarr\MageWarr\bin\Debug\MageWarr.exe.config
+C:\Programování\C#\MageWarr\MageWarr\bin\Debug\MageWarr.exe
+C:\Programování\C#\MageWarr\MageWarr\bin\Debug\MageWarr.pdb
+C:\Programování\C#\MageWarr\MageWarr\obj\Debug\MageWarr.csproj.AssemblyReference.cache
+C:\Programování\C#\MageWarr\MageWarr\obj\Debug\MageWarr.csproj.SuggestedBindingRedirects.cache
+C:\Programování\C#\MageWarr\MageWarr\obj\Debug\MageWarr.csproj.CoreCompileInputs.cache
+C:\Programování\C#\MageWarr\MageWarr\obj\Debug\MageWarr.exe
+C:\Programování\C#\MageWarr\MageWarr\obj\Debug\MageWarr.pdb
